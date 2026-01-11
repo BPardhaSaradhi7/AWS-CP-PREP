@@ -13,6 +13,16 @@ No long months. No burnout. Just what the exam (and real cloud roles) require.
 
 ---
 
+## 🚀 Quick Start (for new learners)
+
+1. Enroll in the AWS Skill Builder course  
+2. Follow **one module per day** using the roadmap below  
+3. Use the PDF only for **revision**  
+4. Write mock tests in the last 4 days  
+5. Fix weak areas → pass confidently  
+
+---
+
 ## 🆓 What I used (100% Free)
 
 | Resource | Cost |
@@ -31,11 +41,14 @@ Just enroll and follow — this single course covers **~90% of the exam**.
 
 This repo also contains a short **Most-Repeated Bits PDF** — a compact revision guide built from exam patterns.
 
+📥 **Download:**  
+[Most-Repeated AWS CP Exam Bits](AWS%20CP%20PREP/most-repeated-bits.pdf)
+
 > ⚠️ **Important:**  
 > This PDF is meant for **revision and confidence**, not as a replacement for learning.  
 > If you depend only on it without understanding AWS services, you will struggle in real cloud roles and interviews.
 
-Use it after you complete the Skill Builder course or similar learning.
+Use it **after** completing the Skill Builder course.
 
 ---
 
@@ -177,19 +190,37 @@ This final loop closes the remaining **10% gap**.
 
 ---
 
+## 📊 Mock Test & Exam Performance
+
+| Test | Score (%) | What it showed |
+|------|-----------|----------------|
+| Mock Test 1 | 59% | Baseline — many gaps in IAM, VPC & pricing |
+| Mock Test 2 | 62% | Improvement, but security & networking still weak |
+| Mock Test 3 | 51% | Harder mocks exposed deeper conceptual gaps |
+| Mock Test 4 | 69.02% | Near exam-level — stable understanding |
+
+**AWS Certified Cloud Practitioner (CLF-C02)**  
+🎯 **Official Exam Score: 761**
+
+> Mock scores are not for ego — they are for **gap discovery**.  
+> The goal is not 100% in mocks, but **confidence in the real exam**.
+
+---
+
 ## 🏅 Certification
 
 <p align="center">
   <a href="https://www.credly.com/badges/64ed471d-9010-4c6c-94de-1495b7d55c09">
-    <img src="badge/aws-cloud-practitioner.png" width="180"/>
+    <img src="AWS%20CP%20PREP/aws-cloud-practitioner.png" width="180"/>
   </a>
 </p>
 
 **AWS Certified Cloud Practitioner (CLF-C02)**  
 Issued by Amazon Web Services (AWS)
 
-🔗 Verify badge: https://www.credly.com/badges/64ed471d-9010-4c6c-94de-1495b7d55c09
+🔗 Verify badge: https://www.credly.com/badges/64ed471d-9010-4c6c-94de-1495b7d55c09  
 
+---
 
 # 🧠 Why this method works
 
