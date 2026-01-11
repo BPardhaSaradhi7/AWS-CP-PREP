@@ -1,5 +1,7 @@
 # ☁️ AWS Cloud Practitioner (CLF-C02) – 19-Day Fast-Track
 
+## 📅 𝙈𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙏𝙞𝙢𝙚𝙡𝙞𝙣e
+
 **Start Date:** 20 Dec 2025  
 **Learning Phase:** 20 Dec → 04 Jan  
 **Mock & Gap-Fix Phase:** 05 Jan → 08 Jan  
